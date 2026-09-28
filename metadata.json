@@ -1,0 +1,6 @@
+{
+  "name": "GuardBook – Smart Security",
+  "description": "Smart Security. Simple Management. A comprehensive security management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
